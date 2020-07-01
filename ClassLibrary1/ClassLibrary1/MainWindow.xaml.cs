@@ -44,7 +44,7 @@ namespace WpfApp1
             IntPtr intPtr = Autodesk.Windows.ComponentManager.ApplicationWindow;
             MessageBox.Show("58888");
             EnumChildWindows(intPtr, this.EnumWindowsMethod, IntPtr.Zero);
-            
+            MessageBox.Show("7777777");
             MessageBox.Show(list.Count.ToString());
         }
 
