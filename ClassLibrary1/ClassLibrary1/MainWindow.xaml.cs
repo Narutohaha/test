@@ -47,6 +47,12 @@ namespace WpfApp1
             
             MessageBox.Show(list.Count.ToString());
         }
+        private void master()
+        {
+
+            MessageBox.Show("666");
+        }
+
         private bool EnumWindowsMethod(int hWnd, int lParam)
         {
             IntPtr lpString = Marshal.AllocHGlobal(200);
