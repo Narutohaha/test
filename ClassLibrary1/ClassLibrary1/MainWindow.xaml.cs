@@ -42,6 +42,7 @@ namespace WpfApp1
         {
             list.Clear();
             IntPtr intPtr = Autodesk.Windows.ComponentManager.ApplicationWindow;
+            MessageBox.Show("123123");
             EnumChildWindows(intPtr, this.EnumWindowsMethod, IntPtr.Zero);
             
             MessageBox.Show(list.Count.ToString());
