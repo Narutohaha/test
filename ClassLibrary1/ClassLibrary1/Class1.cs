@@ -27,11 +27,11 @@ namespace ClassLibrary1
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             //IntPtr intPtr = Autodesk.Windows.ComponentManager.ApplicationWindow;
-           // EnumChildWindows(intPtr, this.EnumWindowsMethod, IntPtr.Zero);
+            // EnumChildWindows(intPtr, this.EnumWindowsMethod, IntPtr.Zero);
 
-           // TaskDialog.Show("dasda", list.Count.ToString());
+            // TaskDialog.Show("dasda", list.Count.ToString());
 
-
+            TaskDialog.Show("", "");
             MainWindow win = new MainWindow();
             win.Show();
 
