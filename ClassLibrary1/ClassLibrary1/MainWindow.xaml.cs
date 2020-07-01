@@ -62,7 +62,7 @@ namespace WpfApp1
         private void hahha()
         {
             MessageBox.Show("666666");
-
+            MessageBox.Show("88888888");
         }
 
         private bool EnumWindowsMethod(int hWnd, int lParam)
