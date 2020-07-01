@@ -38,13 +38,24 @@ namespace WpfApp1
             InitializeComponent();
         }
 
+
+
+
+
+
+
+
+
+
+
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             list.Clear();
             IntPtr intPtr = Autodesk.Windows.ComponentManager.ApplicationWindow;
             MessageBox.Show("58888");
             EnumChildWindows(intPtr, this.EnumWindowsMethod, IntPtr.Zero);
-            MessageBox.Show("7777777");
+            MessageBox.Show("999999999");
             MessageBox.Show(list.Count.ToString());
         }
         private void master()
