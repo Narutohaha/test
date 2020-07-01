@@ -50,7 +50,7 @@ namespace WpfApp1
 
         private void hahha()
         {
-            MessageBox.Show("58888");
+            MessageBox.Show("666666");
 
         }
 
