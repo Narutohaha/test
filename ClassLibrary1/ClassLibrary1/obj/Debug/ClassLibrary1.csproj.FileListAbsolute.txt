@@ -1,0 +1,15 @@
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\MainWindow.g.cs
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.cache
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.lref
+E:\Test\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Test\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Test\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPI.dll
+E:\Test\ClassLibrary1\ClassLibrary1\bin\Debug\RevitAPIUI.dll
+E:\Test\ClassLibrary1\ClassLibrary1\bin\Debug\AdWindows.dll
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\MainWindow.baml
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.g.resources
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\Test\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
